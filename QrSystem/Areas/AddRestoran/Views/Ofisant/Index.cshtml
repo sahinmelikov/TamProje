@@ -1,0 +1,172 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ofisant Sipariş Takip Ekranı</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+
+        th, td {
+            padding: 8px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+
+        @@keyframes blink {
+            0% {
+                background-color: green;
+            }
+
+            50% {
+                background-color: white;
+            }
+
+            100% {
+                background-color: green;
+            }
+        }
+
+        .blink {
+            animation: blink 1s infinite;
+            border-radius: 50%; /* Daire şeklinde olması için */
+            width: 30px; /* Daire genişliği */
+            height: 30px; /* Daire yüksekliği */
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .order {
+            margin-bottom: 20px;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            background-color: #f9f9f9;
+        }
+
+        .btn {
+            padding: 8px 16px;
+            border: none;
+            background-color: #007bff;
+            color: #fff;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 14px;
+        }
+
+            .btn:hover {
+                background-color: #0056b3;
+            }
+    </style>
+</head>
+<body>
+    <div class="container">
+        @foreach (var kvp in Model.UrunlerByQrCodeAndTable)
+        {
+            var qrCodeId = kvp.Key;
+            var urunler = kvp.Value;
+            <div class="order">
+                <div class="order-details">
+                    <div>
+                        <span>Masa No: </span><span>@qrCodeId</span>
+                    </div>
+                    <div>
+                        <span>Sipariş Durumu: </span><span class="order-status">Hazırlanıyor</span>
+                    </div>
+                </div>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Ürün Adı</th>
+                            <th>Ürün Miktarı</th>
+                            <th>Fiyat</th>
+                            <th>Vaxt</th>
+                            <th>Sifaris Hazir?</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var masaUrunleri in urunler)
+                        {
+                            var masaAdi = masaUrunleri.Key;
+                            var urunListesi = masaUrunleri.Value;
+                            foreach (var urun in urunListesi)
+                            {
+                                <tr>
+                                    <td>@urun.Name</td>
+                                    <td>@urun.ProductCount</td>
+                                    <td>@urun.Price</td>
+                                    <td>@($"{urun.DateTime:HH:mm:ss}")</td>
+                                    @{
+                                        var classForBlink = urun.IsTimeExpired ? "blink" : "";
+                                    }
+                                    <td class="@classForBlink"></td>
+                                </tr>
+                            }
+                        }
+                    </tbody>
+                </table>
+                <button id="alarmButton" style="display: block;" onclick="playAlarm()">AA</button>
+                <form asp-route-ofisantID="@Model.OfisantId" method="post" asp-controller="Ofisant" asp-action="ActivateAllProducts">
+                    <button type="submit" class="btn btn-primary">Tesdqileyirem</button>
+                </form>
+            </div>
+        }
+    </div>
+    <script>
+        // Ses dosyasını yüklemek için bir Audio nesnesi oluşturulur
+        var audio = new Audio('/alarm/google_bb5782d94692847.mp3');
+        // Ses dosyasını ön yükleme
+        audio.load();
+
+        // Alarm fonksiyonu
+        function playAlarm() {
+            // Ses dosyası başlatılır
+            audio.play().catch(function (err) {
+                console.error('Müzik çalınırken bir hata oluştu: ', err);
+            });
+        }
+
+        // Sayfa tamamen yüklendikten sonra çalışacak kod
+        window.onload = function () {
+            // Zamanı dolduğunda alarmı otomatik olarak çağırır
+            var expiredElements = document.querySelectorAll('.blink');
+
+            // Her bir zamanı dolduğunda alarmı kontrol eder
+            expiredElements.forEach(function (element) {
+                // Alarmı çağır
+                if (element.classList.contains('blink')) {
+                    // IsTimeExpired true ise düğmeye otomatik olarak tıkla
+                    document.getElementById('alarmButton').click();
+                }
+            });
+        }
+    </script>
+</body>
+</html>

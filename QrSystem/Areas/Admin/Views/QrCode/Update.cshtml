@@ -1,0 +1,13 @@
+﻿@model QrCode
+<div class="container">
+    <div class="card p-4">
+        <form method="post" enctype="multipart/form-data">
+            <div class="form-group">
+                <label asp-for="QRCode"></label>
+                <input asp-for="QRCode" class="form-control">
+                <span asp-validation-for="QRCode" class="text-danger"></span>
+            </div>
+            <button class="btn btn-success" type="submit">Submit</button>
+        </form>
+    </div>
+</div>

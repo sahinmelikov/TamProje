@@ -1,0 +1,26 @@
+﻿@model BigParentCategory
+<div class="container">
+    <div class="card p-4">
+        <form method="post" enctype="multipart/form-data">
+            <div class="form-group">
+                <label asp-for="Name"></label>
+                <input asp-for="Name" class="form-control">
+                <span asp-validation-for="Name" class="text-danger"></span>
+
+
+                <label asp-for="RestorantId"></label>
+                <input asp-for="RestorantId" class="form-control" readonly>
+                <span asp-validation-for="RestorantId" class="text-danger"></span>
+
+
+                <label asp-for="IsActive"></label>
+                <select asp-for="IsActive" class="form-control">
+                    <option value="true">Aktif</option>
+                    <option value="false">Pasif</option>
+                </select>
+                <span asp-validation-for="IsActive" class="text-danger"></span>
+            </div>
+            <button class="btn btn-success" type="submit">Submit</button>
+        </form>
+    </div>
+</div>

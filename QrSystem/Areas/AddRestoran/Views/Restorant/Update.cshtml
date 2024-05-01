@@ -1,0 +1,32 @@
+﻿
+@using QrSystem.ViewModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@model RestorantUpdateVM
+<div class="container">
+    <div class="card p-4">
+        <form method="post" enctype="multipart/form-data">
+            <div class="form-group">
+                <label asp-for="RestorantName"></label>
+                <input asp-for="RestorantName" class="form-control">
+                <span asp-validation-for="RestorantName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RestorantImagePath"></label>
+                <input asp-for="RestorantImagePath" class="form-control">
+                <span asp-validation-for="RestorantImagePath" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Email"></label>
+                <input asp-for="Email" class="form-control">
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Password"></label>
+                <input asp-for="Password" class="form-control">
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <button class="btn btn-success" type="submit">Submit</button>
+        </form>
+    </div>
+</div>

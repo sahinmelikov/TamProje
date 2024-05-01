@@ -1,0 +1,132 @@
+﻿@model QrSystem.ViewModel.UrunlerViewModel
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ürünler</title>
+    <!-- Bootstrap CSS bağlantısı -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <div class="container mt-5">
+        @foreach (var qrCodeId in Model.UrunlerByQrCodeAndTable.Keys)
+        {
+            <div class="row" id="row-@qrCodeId">
+                <div class="col">
+                    <h3>Masa Numarası @qrCodeId - Ofisant: @Model.OfisantName</h3>
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th>Ürün Adı</th>
+                                <th>Açıklama</th>
+                                <th>Fiyat</th>
+                                <th>Ürün Adedi</th>
+                                <th>Resim</th>
+                                <th>Ofisant</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var kvp in Model.UrunlerByQrCodeAndTable[qrCodeId])
+                            {
+                                @foreach (var product in kvp.Value)
+                                {
+                                    <tr>
+                                        <td>@product.Name</td>
+                                        <td>@product.Description</td>
+                                        <td>@product.Price</td>
+                                        <td>@product.ProductCount</td>
+                                        <td><img src="~/Image/Product/@product.ImagePath" alt="@product.Name" width="100" height="100" /></td>
+                                        <td>@product.OfisantName</td>
+                                        <td id="timerCell_@product.Id">
+                                            <form id="timerForm_@product.Id" asp-route-qrCodeId="@product.QrCodeId" asp-route-productId="@product.ProductId" asp-route-siparisId="@product.Id" method="post" asp-controller="AllBasket" asp-action="TimeBashlat">
+                                                <!-- Gerekli gizli alanlar -->
+                                                <input type="hidden" name="productId" value="@product.ProductId" />
+                                                <input type="hidden" name="siparisId" value="@product.Id" />
+                                                <!-- Dakika seçimini yapacak dropdown -->
+                                                <label for="dakikaSecimi_@product.Id">Dakika Seçimi:</label>
+                                                <select id="dakikaSecimi_@product.Id" name="selectedMinute">
+                                                    <option value="5">5</option>
+                                                    <option value="10">10</option>
+                                                    <option value="15">15</option>
+                                                    <option value="20">20</option>
+                                                    <option value="25">25</option>
+                                                    <option value="30">30</option>
+                                                    <option value="40">40</option>
+                                                </select>
+                                                <!-- Timerı başlatan buton -->
+                                                <button type="submit" id="startTimerButton_@product.Id">Timer Başlat</button>
+                                            </form>
+                                            <!-- Geri sayımı gösterecek olan div -->
+                                            <p id="countdown_@product.Id"></p>
+                                        </td>
+                                    </tr>
+                                    <script>
+                                        $(document).ready(function () {
+                                            var countdownElement = $("#countdown_@product.Id");
+                                            var countdownInterval;
+                                            var countdownStartTime;
+
+                                            // Sayfa yenilendiğinde localStorage'dan geri yükleme yap
+                                            var storedStartTime = localStorage.getItem("countdownStartTime_@product.Id");
+                                            if (storedStartTime !== null) {
+                                                countdownStartTime = new Date(storedStartTime);
+                                                startCountdown();
+                                            }
+
+                                            $("#timerForm_@product.Id").submit(function (event) {
+                                                event.preventDefault();
+                                                var formData = $(this).serialize();
+                                                var selectedMinute = $(this).find("select[name='selectedMinute']").val();
+                                                countdownStartTime = new Date();
+                                                startCountdown();
+                                                $.post($(this).attr("action"), formData);
+                                            });
+
+                                            function startCountdown() {
+                                                clearInterval(countdownInterval);
+                                                countdownInterval = setInterval(function () {
+                                                    var now = new Date();
+                                                    var elapsedTime = Math.floor((now - countdownStartTime) / 1000);
+                                                    var selectedMinute = $("#dakikaSecimi_@product.Id").val() * 60;
+                                                    var remainingTime = selectedMinute - elapsedTime;
+                                                    if (remainingTime <= 0) {
+                                                        clearInterval(countdownInterval);
+                                                        countdownElement.text("Süre doldu!");
+                                                        localStorage.removeItem("countdownStartTime_@product.Id");
+                                                    } else {
+                                                        countdownElement.text("Kalan süre: " + formatTime(remainingTime));
+                                                        localStorage.setItem("countdownStartTime_@product.Id", countdownStartTime);
+                                                    }
+                                                }, 1000);
+                                            }
+
+                                            function formatTime(seconds) {
+                                                var minutes = Math.floor(seconds / 60);
+                                                var remainingSeconds = seconds % 60;
+                                                return minutes + " dakika " + remainingSeconds + " saniye";
+                                            }
+
+                                            // Sayfa kapatıldığında veya yenilendiğinde localStorage'a değeri kaydet
+                                            window.onbeforeunload = function () {
+                                                localStorage.setItem("countdownStartTime_@product.Id", countdownStartTime);
+                                            };
+                                        });
+                                    </script>
+                                }
+                            }
+                        </tbody>
+                    </table>
+
+                    <form id="form-@qrCodeId" method="post" asp-controller="AllBasket" asp-action="DeleteProducts">
+                        <input type="hidden" name="qrCodeId" value="@qrCodeId" />
+                        <button type="submit" class="btn btn-danger">Sil</button>
+                    </form>
+                </div>
+            </div>
+        }
+    </div>
+</body>
+</html>

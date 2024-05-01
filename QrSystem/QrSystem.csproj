@@ -1,0 +1,42 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\admin\template\.DS_Store" />
+    <None Include="wwwroot\admin\template\documentation\.DS_Store" />
+    <None Include="wwwroot\admin\template\fonts\.DS_Store" />
+    <None Include="wwwroot\admin\template\fonts\Roboto\.DS_Store" />
+    <None Include="wwwroot\admin\template\images\.DS_Store" />
+    <None Include="wwwroot\admin\template\images\auth\.DS_Store" />
+    <None Include="wwwroot\admin\template\images\faces\.DS_Store" />
+    <None Include="wwwroot\admin\template\js\.DS_Store" />
+    <None Include="wwwroot\admin\template\pages\.DS_Store" />
+    <None Include="wwwroot\admin\template\pages\charts\.DS_Store" />
+    <None Include="wwwroot\admin\template\pages\forms\.DS_Store" />
+    <None Include="wwwroot\admin\template\pages\icons\.DS_Store" />
+    <None Include="wwwroot\admin\template\pages\samples\.DS_Store" />
+    <None Include="wwwroot\admin\template\pages\tables\.DS_Store" />
+    <None Include="wwwroot\admin\template\pages\ui-features\.DS_Store" />
+    <None Include="wwwroot\admin\template\scss\.DS_Store" />
+    <None Include="wwwroot\admin\template\scss\components\.DS_Store" />
+    <None Include="wwwroot\admin\template\scss\mixins\.DS_Store" />
+    <None Include="wwwroot\admin\template\vendors\.DS_Store" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.3">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+</Project>

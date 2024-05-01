@@ -1,0 +1,54 @@
+﻿@using QrSystem.Models
+@model IEnumerable<Restorant>
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Majestic Admin</title>
+    <!-- plugins:css -->
+    <link rel="stylesheet" href="~/admin/template/vendors/mdi/css/materialdesignicons.min.css">
+    <link rel="stylesheet" href="~/admin/template/vendors/base/vendor.bundle.base.css">
+    <!-- endinject -->
+    <!-- plugin css for this page -->
+    <link rel="stylesheet" href="~/admin/template/vendors/datatables.net-bs4/dataTables.bootstrap4.css">
+    <!-- End plugin css for this page -->
+    <!-- inject:css -->
+    <link rel="stylesheet" href="~/admin/template/css/style.css">
+    <!-- endinject -->
+    <link rel="shortcut icon" href="~/admin/template/images/favicon.png" />
+</head>
+
+<div class="container">
+    <a class="btn btn-primary" asp-action="Create">Create</a>
+    <table class="table table-bordered table-responsive">
+        <thead>
+            <tr>
+
+                <th>Id</th>
+                <th>RestorantName</th>
+                <th>Image</th>
+                <th>Email</th>
+                <th>Password</th>
+               
+
+                <th colspan="2">Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in (Model ?? new List<Restorant>()))
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.RestorantName</td>
+                    <td><img src="~/Restorant/Image/@item.RestorantImagePath"/></td>
+                    <td>@item.Email</td>
+                    <td>@item.Password</td>
+                  
+                    <td><a type="submit" class="btn btn-warning" asp-action="Update" asp-route-id="@item.Id">Update</a></td>
+                    <td><a type="submit" class="btn btn-danger" asp-action="Delete" asp-route-id="@item.Id">Delete</a></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

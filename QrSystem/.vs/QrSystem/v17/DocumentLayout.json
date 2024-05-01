@@ -1,0 +1,1524 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\areas\\admin\\views\\bigparentcategory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:areas\\admin\\views\\bigparentcategory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\areas\\admin\\controllers\\bigparentcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:areas\\admin\\controllers\\bigparentcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\areas\\admin\\controllers\\hesabatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:areas\\admin\\controllers\\hesabatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\areas\\admin\\views\\bigparentcategory\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:areas\\admin\\views\\bigparentcategory\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\areas\\admin\\controllers\\ofisantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:areas\\admin\\controllers\\ofisantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\areas\\admin\\views\\bigparentcategory\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:areas\\admin\\views\\bigparentcategory\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\areas\\admin\\controllers\\parentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:areas\\admin\\controllers\\parentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\areas\\admin\\views\\hesabat\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:areas\\admin\\views\\hesabat\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\areas\\admin\\controllers\\tablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:areas\\admin\\controllers\\tablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\areas\\admin\\views\\table\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:areas\\admin\\views\\table\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\areas\\admin\\views\\table\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:areas\\admin\\views\\table\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\areas\\admin\\views\\table\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:areas\\admin\\views\\table\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\models\\ofisant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:models\\ofisant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\areas\\admin\\views\\ofisant\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:areas\\admin\\views\\ofisant\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\areas\\admin\\views\\ofisant\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:areas\\admin\\views\\ofisant\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Migrations\\20240422213513_Addofisant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240422213513_Addofisant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\areas\\admin\\views\\allbasket\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:areas\\admin\\views\\allbasket\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\models\\restorant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:models\\restorant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\areas\\addrestoran\\controllers\\restorantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:areas\\addrestoran\\controllers\\restorantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\models\\hesabat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:models\\hesabat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\areas\\admin\\controllers\\allbasketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:areas\\admin\\controllers\\allbasketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\viewmodel\\ofisantvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:viewmodel\\ofisantvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\areas\\addrestoran\\views\\ofisant\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:areas\\addrestoran\\views\\ofisant\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\models\\auth\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:models\\auth\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:controllers\\basketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\areas\\addrestoran\\controllers\\ofisantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:areas\\addrestoran\\controllers\\ofisantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\views\\basket\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:views\\basket\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\views\\basket\\urun.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:views\\basket\\urun.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\viewmodel\\auth\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:viewmodel\\auth\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\models\\auth\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:models\\auth\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\viewmodel\\urunlerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:viewmodel\\urunlerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\viewmodel\\basket\u0130temvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:viewmodel\\basket\u0130temvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\areas\\addrestoran\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:areas\\addrestoran\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\areas\\admin\\controllers\\qrcodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:areas\\admin\\controllers\\qrcodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\areas\\admin\\controllers\\restorantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:areas\\admin\\controllers\\restorantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\viewmodel\\tablevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:viewmodel\\tablevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\models\\restouranttables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:models\\restouranttables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\areas\\addrestoran\\views\\restorant\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:areas\\addrestoran\\views\\restorant\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\models\\qrcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:models\\qrcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\models\\parentcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:models\\parentcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\models\\saxlanilansifarish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:models\\saxlanilansifarish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\viewmodel\\basketvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:viewmodel\\basketvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\models\\bigparentcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:models\\bigparentcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\viewmodel\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:viewmodel\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\areas\\admin\\views\\qrcode\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:areas\\admin\\views\\qrcode\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\models\\baseid\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:models\\baseid\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\areas\\admin\\views\\parent\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:areas\\admin\\views\\parent\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\R\\AppData\\Local\\SourceServer\\63011bbf747488b0a0cf72e16800f7f92af9f607ed1736e6c1694e43e4606fc5\\QrSystem\\Areas\\Admin\\Controllers\\AllBasketController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Migrations\\20240411151503_Restoran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240411151503_Restoran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\areas\\admin\\views\\allbasket\\deleted.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:areas\\admin\\views\\allbasket\\deleted.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Migrations\\20240411144148_Restoran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240411144148_Restoran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\viewmodel\\hesabatvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:viewmodel\\hesabatvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\areas\\admin\\views\\parent\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:areas\\admin\\views\\parent\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\viewmodel\\checkoutvievmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:viewmodel\\checkoutvievmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\views\\restorant\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:views\\restorant\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\areas\\admin\\views\\qrcode\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:areas\\admin\\views\\qrcode\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\areas\\addrestoran\\views\\restorant\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:areas\\addrestoran\\views\\restorant\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\areas\\addrestoran\\views\\restorant\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:areas\\addrestoran\\views\\restorant\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\dal\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:dal\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Migrations\\20240407204858_Addd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240407204858_Addd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Migrations\\20240407204832_Addd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240407204832_Addd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Migrations\\20240407204303_Addd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240407204303_Addd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\viewmodel\\auth\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:viewmodel\\auth\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Migrations\\20240407113652_AddData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240407113652_AddData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Migrations\\20240407113108_AddDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240407113108_AddDatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Migrations\\20240406180436_AddTotals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240406180436_AddTotals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Migrations\\20240406175258_AddRestoranTotals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240406175258_AddRestoranTotals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\controllers\\restorantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:controllers\\restorantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Migrations\\20240406142631_AddTimerrr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240406142631_AddTimerrr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Migrations\\20240406142025_upate-databae.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240406142025_upate-databae.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\areas\\admin\\views\\qrcode\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:areas\\admin\\views\\qrcode\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\migrations\\20240411151714_restoran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:migrations\\20240411151714_restoran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\migrations\\20240416133640_addofisants1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:migrations\\20240416133640_addofisants1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|c:\\users\\r\\desktop\\qrsystem\\qrsystem\\migrations\\20240416131433_addofisants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9AD2AA8-5FE1-4362-B7BF-36825E4A92CB}|QrSystem.csproj|solutionrelative:migrations\\20240416131433_addofisants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\Admin\\Views\\BigParentCategory\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\BigParentCategory\\Index.cshtml",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\Admin\\Views\\BigParentCategory\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\BigParentCategory\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T20:38:31.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\Admin\\Views\\BigParentCategory\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\BigParentCategory\\Create.cshtml",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\Admin\\Views\\BigParentCategory\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\BigParentCategory\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T20:35:17.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\Admin\\Views\\BigParentCategory\\Update.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\BigParentCategory\\Update.cshtml",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\Admin\\Views\\BigParentCategory\\Update.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\BigParentCategory\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T20:35:12.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BigParentCategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\Admin\\Controllers\\BigParentCategoryController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\BigParentCategoryController.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\Admin\\Controllers\\BigParentCategoryController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\BigParentCategoryController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T10:46:03.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OfisantController.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\Admin\\Controllers\\OfisantController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\OfisantController.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\Admin\\Controllers\\OfisantController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\OfisantController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAADwv1AAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T21:06:42.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAL8AAAAAAAAAAAAmwOYAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T08:51:23.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HesabatController.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\Admin\\Controllers\\HesabatController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\HesabatController.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\Admin\\Controllers\\HesabatController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\HesabatController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAwEgAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T08:48:18.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\Admin\\Views\\Hesabat\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Hesabat\\Index.cshtml",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\Admin\\Views\\Hesabat\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Hesabat\\Index.cshtml",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAFkAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T08:49:31.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\Admin\\Views\\Table\\Update.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Table\\Update.cshtml",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\Admin\\Views\\Table\\Update.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Table\\Update.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAkwCkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T09:56:35.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\Admin\\Views\\Table\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Table\\Index.cshtml",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\Admin\\Views\\Table\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Table\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T09:54:52.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ParentController.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\Admin\\Controllers\\ParentController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\ParentController.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\Admin\\Controllers\\ParentController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\ParentController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAkwCwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T12:53:40.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Ofisant.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Models\\Ofisant.cs",
+              "RelativeDocumentMoniker": "Models\\Ofisant.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Models\\Ofisant.cs",
+              "RelativeToolTip": "Models\\Ofisant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T12:45:01.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\Admin\\Views\\Table\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Table\\Create.cshtml",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\Admin\\Views\\Table\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Table\\Create.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwB4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T09:55:08.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\Admin\\Views\\Ofisant\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Ofisant\\Create.cshtml",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\Admin\\Views\\Ofisant\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Ofisant\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T21:27:28.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TableController.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\Admin\\Controllers\\TableController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\TableController.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\Admin\\Controllers\\TableController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\TableController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAswDcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T09:58:24.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\Admin\\Views\\Ofisant\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Ofisant\\Index.cshtml",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\Admin\\Views\\Ofisant\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Ofisant\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T21:25:42.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240422213513_Addofisant.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Migrations\\20240422213513_Addofisant.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240422213513_Addofisant.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Migrations\\20240422213513_Addofisant.cs",
+              "RelativeToolTip": "Migrations\\20240422213513_Addofisant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T21:35:13.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\Admin\\Views\\AllBasket\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\AllBasket\\Index.cshtml",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\Admin\\Views\\AllBasket\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\AllBasket\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T09:42:27.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwCYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T09:56:03.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAB4AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T09:56:07.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAwwOsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T10:15:43.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Restorant.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Models\\Restorant.cs",
+              "RelativeDocumentMoniker": "Models\\Restorant.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Models\\Restorant.cs",
+              "RelativeToolTip": "Models\\Restorant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T16:51:49.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T12:53:35.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Hesabat.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Models\\Hesabat.cs",
+              "RelativeDocumentMoniker": "Models\\Hesabat.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Models\\Hesabat.cs",
+              "RelativeToolTip": "Models\\Hesabat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T09:19:36.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AllBasketController.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\Admin\\Controllers\\AllBasketController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\AllBasketController.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\Admin\\Controllers\\AllBasketController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\AllBasketController.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAQwFEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T22:00:56.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RestorantController.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\AddRestoran\\Controllers\\RestorantController.cs",
+              "RelativeDocumentMoniker": "Areas\\AddRestoran\\Controllers\\RestorantController.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\AddRestoran\\Controllers\\RestorantController.cs",
+              "RelativeToolTip": "Areas\\AddRestoran\\Controllers\\RestorantController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAowBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T22:07:36.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OfisantVM.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\ViewModel\\OfisantVM.cs",
+              "RelativeDocumentMoniker": "ViewModel\\OfisantVM.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\ViewModel\\OfisantVM.cs",
+              "RelativeToolTip": "ViewModel\\OfisantVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T20:45:52.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\AddRestoran\\Views\\Ofisant\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\AddRestoran\\Views\\Ofisant\\Index.cshtml",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\AddRestoran\\Views\\Ofisant\\Index.cshtml",
+              "RelativeToolTip": "Areas\\AddRestoran\\Views\\Ofisant\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T14:00:56.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Models\\Auth\\AppUser.cs",
+              "RelativeDocumentMoniker": "Models\\Auth\\AppUser.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Models\\Auth\\AppUser.cs",
+              "RelativeToolTip": "Models\\Auth\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T12:56:17.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BasketController.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Controllers\\BasketController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BasketController.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Controllers\\BasketController.cs",
+              "RelativeToolTip": "Controllers\\BasketController.cs",
+              "ViewState": "AQIAAJoBAAAAAAAAAAAkwLcBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T17:07:30.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "OfisantController.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\AddRestoran\\Controllers\\OfisantController.cs",
+              "RelativeDocumentMoniker": "Areas\\AddRestoran\\Controllers\\OfisantController.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\AddRestoran\\Controllers\\OfisantController.cs",
+              "RelativeToolTip": "Areas\\AddRestoran\\Controllers\\OfisantController.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAkwHQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T12:44:23.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Views\\Basket\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Basket\\Index.cshtml",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Views\\Basket\\Index.cshtml",
+              "RelativeToolTip": "Views\\Basket\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T12:51:36.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Urun.cshtml",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Views\\Basket\\Urun.cshtml",
+              "RelativeDocumentMoniker": "Views\\Basket\\Urun.cshtml",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Views\\Basket\\Urun.cshtml",
+              "RelativeToolTip": "Views\\Basket\\Urun.cshtml",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T09:27:01.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\ViewModel\\Auth\\LoginVM.cs",
+              "RelativeDocumentMoniker": "ViewModel\\Auth\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\ViewModel\\Auth\\LoginVM.cs",
+              "RelativeToolTip": "ViewModel\\Auth\\LoginVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T12:53:02.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AppRole.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Models\\Auth\\AppRole.cs",
+              "RelativeDocumentMoniker": "Models\\Auth\\AppRole.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Models\\Auth\\AppRole.cs",
+              "RelativeToolTip": "Models\\Auth\\AppRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T12:56:16.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAgwEoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T21:56:07.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T21:55:51.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-07T09:16:30.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Basket\u0130temVM.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\ViewModel\\Basket\u0130temVM.cs",
+              "RelativeDocumentMoniker": "ViewModel\\Basket\u0130temVM.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\ViewModel\\Basket\u0130temVM.cs",
+              "RelativeToolTip": "ViewModel\\Basket\u0130temVM.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwBoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T14:00:58.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UrunlerViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\ViewModel\\UrunlerViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\UrunlerViewModel.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\ViewModel\\UrunlerViewModel.cs",
+              "RelativeToolTip": "ViewModel\\UrunlerViewModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T14:00:51.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\AddRestoran\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\AddRestoran\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\AddRestoran\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\AddRestoran\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T10:43:28.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "QrCodeController.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\Admin\\Controllers\\QrCodeController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\QrCodeController.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\Admin\\Controllers\\QrCodeController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\QrCodeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T18:54:48.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "RestorantController.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\Admin\\Controllers\\RestorantController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\RestorantController.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\Admin\\Controllers\\RestorantController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\RestorantController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T10:15:40.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAACoAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T09:56:15.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "TableVM.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\ViewModel\\TableVM.cs",
+              "RelativeDocumentMoniker": "ViewModel\\TableVM.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\ViewModel\\TableVM.cs",
+              "RelativeToolTip": "ViewModel\\TableVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T11:17:22.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "RestourantTables.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Models\\RestourantTables.cs",
+              "RelativeDocumentMoniker": "Models\\RestourantTables.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Models\\RestourantTables.cs",
+              "RelativeToolTip": "Models\\RestourantTables.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T16:53:29.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\AddRestoran\\Views\\Restorant\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\AddRestoran\\Views\\Restorant\\Index.cshtml",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\AddRestoran\\Views\\Restorant\\Index.cshtml",
+              "RelativeToolTip": "Areas\\AddRestoran\\Views\\Restorant\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T22:05:28.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T12:57:23.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "QrCode.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Models\\QrCode.cs",
+              "RelativeDocumentMoniker": "Models\\QrCode.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Models\\QrCode.cs",
+              "RelativeToolTip": "Models\\QrCode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T16:53:37.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T16:51:45.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ParentCategory.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Models\\ParentCategory.cs",
+              "RelativeDocumentMoniker": "Models\\ParentCategory.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Models\\ParentCategory.cs",
+              "RelativeToolTip": "Models\\ParentCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T16:51:47.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Models\\Comment.cs",
+              "RelativeToolTip": "Models\\Comment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T13:50:33.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "SaxlanilanSifarish.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Models\\SaxlanilanSifarish.cs",
+              "RelativeDocumentMoniker": "Models\\SaxlanilanSifarish.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Models\\SaxlanilanSifarish.cs",
+              "RelativeToolTip": "Models\\SaxlanilanSifarish.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAcwAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T13:23:00.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "BasketVM.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\ViewModel\\BasketVM.cs",
+              "RelativeDocumentMoniker": "ViewModel\\BasketVM.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\ViewModel\\BasketVM.cs",
+              "RelativeToolTip": "ViewModel\\BasketVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T13:10:38.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "20240416133640_addofisants1.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Migrations\\20240416133640_addofisants1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240416133640_addofisants1.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Migrations\\20240416133640_addofisants1.cs",
+              "RelativeToolTip": "Migrations\\20240416133640_addofisants1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T13:36:40.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAewEIAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T12:02:20.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAKABAAAAAAAAAAAwwKwBAAB1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T14:04:49.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "BigParentCategory.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Models\\BigParentCategory.cs",
+              "RelativeDocumentMoniker": "Models\\BigParentCategory.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Models\\BigParentCategory.cs",
+              "RelativeToolTip": "Models\\BigParentCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T13:13:36.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\ViewModel\\HomeVM.cs",
+              "RelativeDocumentMoniker": "ViewModel\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\ViewModel\\HomeVM.cs",
+              "RelativeToolTip": "ViewModel\\HomeVM.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T12:55:38.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAuwF0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T13:22:20.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "20240416131433_addofisants.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Migrations\\20240416131433_addofisants.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240416131433_addofisants.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Migrations\\20240416131433_addofisants.cs",
+              "RelativeToolTip": "Migrations\\20240416131433_addofisants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T13:14:33.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\Admin\\Views\\QrCode\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\QrCode\\Index.cshtml",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\Admin\\Views\\QrCode\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\QrCode\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T09:55:12.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Base.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Models\\BaseId\\Base.cs",
+              "RelativeDocumentMoniker": "Models\\BaseId\\Base.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Models\\BaseId\\Base.cs",
+              "RelativeToolTip": "Models\\BaseId\\Base.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T19:42:59.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\Admin\\Views\\Parent\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Parent\\Index.cshtml",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\Admin\\Views\\Parent\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Parent\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T09:55:45.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Deleted.cshtml",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\Admin\\Views\\AllBasket\\Deleted.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\AllBasket\\Deleted.cshtml",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\Admin\\Views\\AllBasket\\Deleted.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\AllBasket\\Deleted.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T09:11:30.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "AllBasketController.cs",
+              "DocumentMoniker": "C:\\Users\\R\\AppData\\Local\\SourceServer\\63011bbf747488b0a0cf72e16800f7f92af9f607ed1736e6c1694e43e4606fc5\\QrSystem\\Areas\\Admin\\Controllers\\AllBasketController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\63011bbf747488b0a0cf72e16800f7f92af9f607ed1736e6c1694e43e4606fc5\\QrSystem\\Areas\\Admin\\Controllers\\AllBasketController.cs",
+              "ToolTip": "C:\\Users\\R\\AppData\\Local\\SourceServer\\63011bbf747488b0a0cf72e16800f7f92af9f607ed1736e6c1694e43e4606fc5\\QrSystem\\Areas\\Admin\\Controllers\\AllBasketController.cs[Salt Okunur]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\63011bbf747488b0a0cf72e16800f7f92af9f607ed1736e6c1694e43e4606fc5\\QrSystem\\Areas\\Admin\\Controllers\\AllBasketController.cs[Salt Okunur]",
+              "ViewState": "AQIAABsAAAAAAAAAAAAswCoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T16:47:13.145Z",
+              "EditorCaption": "[Salt Okunur]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "20240411151503_Restoran.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Migrations\\20240411151503_Restoran.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240411151503_Restoran.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Migrations\\20240411151503_Restoran.cs",
+              "RelativeToolTip": "Migrations\\20240411151503_Restoran.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T15:15:03.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "20240411151714_Restoran.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Migrations\\20240411151714_Restoran.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240411151714_Restoran.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Migrations\\20240411151714_Restoran.cs",
+              "RelativeToolTip": "Migrations\\20240411151714_Restoran.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T15:17:14.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "20240411144148_Restoran.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Migrations\\20240411144148_Restoran.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240411144148_Restoran.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Migrations\\20240411144148_Restoran.cs",
+              "RelativeToolTip": "Migrations\\20240411144148_Restoran.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T14:41:49.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "HesabatVM.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\ViewModel\\HesabatVM.cs",
+              "RelativeDocumentMoniker": "ViewModel\\HesabatVM.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\ViewModel\\HesabatVM.cs",
+              "RelativeToolTip": "ViewModel\\HesabatVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T12:55:33.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\Admin\\Views\\Parent\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Parent\\Create.cshtml",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\Admin\\Views\\Parent\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Parent\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T09:55:54.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "CheckoutVievModel.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\ViewModel\\CheckoutVievModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\CheckoutVievModel.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\ViewModel\\CheckoutVievModel.cs",
+              "RelativeToolTip": "ViewModel\\CheckoutVievModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T12:55:37.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Views\\Restorant\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Restorant\\Index.cshtml",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Views\\Restorant\\Index.cshtml",
+              "RelativeToolTip": "Views\\Restorant\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T14:04:59.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAswG4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T21:55:55.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\Admin\\Views\\QrCode\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\QrCode\\Create.cshtml",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\Admin\\Views\\QrCode\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\QrCode\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T09:55:15.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\AddRestoran\\Views\\Restorant\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\AddRestoran\\Views\\Restorant\\Create.cshtml",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\AddRestoran\\Views\\Restorant\\Create.cshtml",
+              "RelativeToolTip": "Areas\\AddRestoran\\Views\\Restorant\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-08T11:03:51.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\AddRestoran\\Views\\Restorant\\Update.cshtml",
+              "RelativeDocumentMoniker": "Areas\\AddRestoran\\Views\\Restorant\\Update.cshtml",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\AddRestoran\\Views\\Restorant\\Update.cshtml",
+              "RelativeToolTip": "Areas\\AddRestoran\\Views\\Restorant\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T21:59:15.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "DesignTimeDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\DAL\\DesignTimeDbContextFactory.cs",
+              "RelativeDocumentMoniker": "DAL\\DesignTimeDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\DAL\\DesignTimeDbContextFactory.cs",
+              "RelativeToolTip": "DAL\\DesignTimeDbContextFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T09:18:20.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "20240407204858_Addd.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Migrations\\20240407204858_Addd.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240407204858_Addd.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Migrations\\20240407204858_Addd.cs",
+              "RelativeToolTip": "Migrations\\20240407204858_Addd.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T20:48:58.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "20240407204832_Addd.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Migrations\\20240407204832_Addd.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240407204832_Addd.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Migrations\\20240407204832_Addd.cs",
+              "RelativeToolTip": "Migrations\\20240407204832_Addd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T20:48:32.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "20240407204303_Addd.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Migrations\\20240407204303_Addd.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240407204303_Addd.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Migrations\\20240407204303_Addd.cs",
+              "RelativeToolTip": "Migrations\\20240407204303_Addd.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T20:43:03.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\ViewModel\\Auth\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "ViewModel\\Auth\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\ViewModel\\Auth\\RegisterVM.cs",
+              "RelativeToolTip": "ViewModel\\Auth\\RegisterVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T12:53:05.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "Views\\Account\\AccessDenied.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T21:55:52.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "20240407113652_AddData.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Migrations\\20240407113652_AddData.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240407113652_AddData.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Migrations\\20240407113652_AddData.cs",
+              "RelativeToolTip": "Migrations\\20240407113652_AddData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T11:36:52.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "20240407113108_AddDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Migrations\\20240407113108_AddDatabase.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240407113108_AddDatabase.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Migrations\\20240407113108_AddDatabase.cs",
+              "RelativeToolTip": "Migrations\\20240407113108_AddDatabase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T11:31:08.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "20240406180436_AddTotals.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Migrations\\20240406180436_AddTotals.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240406180436_AddTotals.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Migrations\\20240406180436_AddTotals.cs",
+              "RelativeToolTip": "Migrations\\20240406180436_AddTotals.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAFcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T18:04:36.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "20240406175258_AddRestoranTotals.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Migrations\\20240406175258_AddRestoranTotals.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240406175258_AddRestoranTotals.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Migrations\\20240406175258_AddRestoranTotals.cs",
+              "RelativeToolTip": "Migrations\\20240406175258_AddRestoranTotals.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T17:52:58.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "RestorantController.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Controllers\\RestorantController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RestorantController.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Controllers\\RestorantController.cs",
+              "RelativeToolTip": "Controllers\\RestorantController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T17:09:14.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "20240406142631_AddTimerrr.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Migrations\\20240406142631_AddTimerrr.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240406142631_AddTimerrr.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Migrations\\20240406142631_AddTimerrr.cs",
+              "RelativeToolTip": "Migrations\\20240406142631_AddTimerrr.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T14:26:31.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "20240406142025_upate-databae.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Migrations\\20240406142025_upate-databae.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240406142025_upate-databae.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Migrations\\20240406142025_upate-databae.cs",
+              "RelativeToolTip": "Migrations\\20240406142025_upate-databae.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T14:20:25.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\Admin\\Views\\QrCode\\Update.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\QrCode\\Update.cshtml",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Areas\\Admin\\Views\\QrCode\\Update.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\QrCode\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-29T09:56:32.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\R\\Desktop\\QrSystem\\QrSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAIBJwAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T22:04:17.261Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
